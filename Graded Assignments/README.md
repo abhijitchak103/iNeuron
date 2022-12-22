@@ -27,3 +27,6 @@ Files added till date:
 > - [iNeuron_Graded_Programming_Assignment_20.ipynb](https://github.com/abhijitchak103/iNeuron/blob/main/Graded%20Assignments/iNeuron_Graded_Programming_Assignment_20.ipynb)
 > - [iNeuron_Graded_Programming_Assignment_21.ipynb](https://github.com/abhijitchak103/iNeuron/blob/main/Graded%20Assignments/iNeuron_Graded_Programming_Assignment_21.ipynb)
 > - [iNeuron_Graded_Programming_Assignment_22.ipynb](https://github.com/abhijitchak103/iNeuron/blob/main/Graded%20Assignments/iNeuron_Graded_Programming_Assignment_22.ipynb)
+> - [iNeuron_Graded_Programming_Assignment_23.ipynb](https://github.com/abhijitchak103/iNeuron/blob/main/Graded%20Assignments/iNeuron_Graded_Programming_Assignment_23.ipynb)
+> - [iNeuron_Graded_Programming_Assignment_24.ipynb](https://github.com/abhijitchak103/iNeuron/blob/main/Graded%20Assignments/iNeuron_Graded_Programming_Assignment_24.ipynb)
+> - [iNeuron_Graded_Programming_Assignment_25.ipynb](https://github.com/abhijitchak103/iNeuron/blob/main/Graded%20Assignments/iNeuron_Graded_Programming_Assignment_25.ipynb)
